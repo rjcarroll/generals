@@ -9,3 +9,5 @@ data/processed/*
 !data/processed/.gitkeep
 data/external/*
 !data/external/.gitkeep
+.DS_Store
+Icon?

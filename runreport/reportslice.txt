@@ -1,0 +1,189 @@
+    {
+      "src": "data/interim/preprocessed/dict1/0027.png",
+      "out_txt": "/Users/rjc/generals/data/interim/ocr/dict1/0027.txt",
+      "out_tsv": [
+        "/Users/rjc/generals/data/interim/ocr/dict1/0027.tsv"
+      ],
+      "out_hocr": [
+        "/Users/rjc/generals/data/interim/ocr/dict1/0027.hocr"
+      ],
+      "n_chars": 3542,
+      "n_lines": 45,
+      "ms": 10827,
+      "split": false,
+      "header_crop_px": 466,
+      "split_x": null,
+      "mode": "tess"
+    }
+
+    {
+      "src": "data/interim/preprocessed/dict1/0029.png",
+      "out_txt": "/Users/rjc/generals/data/interim/ocr/dict1/0029.txt",
+      "out_tsv": [
+        "/Users/rjc/generals/data/interim/ocr/dict1/0029.tsv"
+      ],
+      "out_hocr": [
+        "/Users/rjc/generals/data/interim/ocr/dict1/0029.hocr"
+      ],
+      "n_chars": 5056,
+      "n_lines": 127,
+      "ms": 15441,
+      "split": false,
+      "header_crop_px": 465,
+      "split_x": null,
+      "mode": "tess"
+    }
+
+    {
+      "src": "data/interim/preprocessed/dict1/0028.png",
+      "out_txt": "/Users/rjc/generals/data/interim/ocr/dict1/0028.txt",
+      "out_tsv": [
+        "/Users/rjc/generals/data/interim/ocr/dict1/0028.tsv"
+      ],
+      "out_hocr": [
+        "/Users/rjc/generals/data/interim/ocr/dict1/0028.hocr"
+      ],
+      "n_chars": 5021,
+      "n_lines": 128,
+      "ms": 15461,
+      "split": false,
+      "header_crop_px": 456,
+      "split_x": null,
+      "mode": "tess"
+    }
+
+    {
+      "src": "data/interim/preprocessed/dict1/0030.png",
+      "out_txt": "/Users/rjc/generals/data/interim/ocr/dict1/0030.txt",
+      "out_tsv": [
+        "/Users/rjc/generals/data/interim/ocr/dict1/0030.tsv"
+      ],
+      "out_hocr": [
+        "/Users/rjc/generals/data/interim/ocr/dict1/0030.hocr"
+      ],
+      "n_chars": 5079,
+      "n_lines": 130,
+      "ms": 15757,
+      "split": false,
+      "header_crop_px": 451,
+      "split_x": null,
+      "mode": "tess"
+    }
+
+    {
+      "src": "data/interim/preprocessed/dict1/0031.png",
+      "out_txt": "/Users/rjc/generals/data/interim/ocr/dict1/0031.txt",
+      "out_tsv": [
+        "/Users/rjc/generals/data/interim/ocr/dict1/0031.tsv"
+      ],
+      "out_hocr": [
+        "/Users/rjc/generals/data/interim/ocr/dict1/0031.hocr"
+      ],
+      "n_chars": 5078,
+      "n_lines": 64,
+      "ms": 15455,
+      "split": false,
+      "header_crop_px": 465,
+      "split_x": null,
+      "mode": "tess"
+    }
+
+    {
+      "src": "data/interim/preprocessed/dict1/0036.png",
+      "out_txt": "/Users/rjc/generals/data/interim/ocr/dict1/0036.txt",
+      "out_tsv": [
+        "/Users/rjc/generals/data/interim/ocr/dict1/0036_L.tsv",
+        "/Users/rjc/generals/data/interim/ocr/dict1/0036_R.tsv"
+      ],
+      "out_hocr": [
+        "/Users/rjc/generals/data/interim/ocr/dict1/0036_L.hocr",
+        "/Users/rjc/generals/data/interim/ocr/dict1/0036_R.hocr"
+      ],
+      "n_chars": 6508,
+      "n_lines": 127,
+      "ms": 14650,
+      "split": true,
+      "header_crop_px": 453,
+      "split_x": 2208,
+      "mode": "tess"
+    }
+
+    {
+      "src": "data/interim/preprocessed/dict1/0038.png",
+      "out_txt": "/Users/rjc/generals/data/interim/ocr/dict1/0038.txt",
+      "out_tsv": [
+        "/Users/rjc/generals/data/interim/ocr/dict1/0038_L.tsv",
+        "/Users/rjc/generals/data/interim/ocr/dict1/0038_R.tsv"
+      ],
+      "out_hocr": [
+        "/Users/rjc/generals/data/interim/ocr/dict1/0038_L.hocr",
+        "/Users/rjc/generals/data/interim/ocr/dict1/0038_R.hocr"
+      ],
+      "n_chars": 6162,
+      "n_lines": 129,
+      "ms": 14567,
+      "split": true,
+      "header_crop_px": 454,
+      "split_x": 2185,
+      "mode": "tess"
+    }
+
+    {
+      "src": "data/interim/preprocessed/dict1/0052.png",
+      "out_txt": "/Users/rjc/generals/data/interim/ocr/dict1/0052.txt",
+      "out_tsv": [
+        "/Users/rjc/generals/data/interim/ocr/dict1/0052_L.tsv",
+        "/Users/rjc/generals/data/interim/ocr/dict1/0052_R.tsv"
+      ],
+      "out_hocr": [
+        "/Users/rjc/generals/data/interim/ocr/dict1/0052_L.hocr",
+        "/Users/rjc/generals/data/interim/ocr/dict1/0052_R.hocr"
+      ],
+      "n_chars": 6261,
+      "n_lines": 131,
+      "ms": 15271,
+      "split": true,
+      "header_crop_px": 453,
+      "split_x": 2264,
+      "mode": "tess"
+    }
+
+    {
+      "src": "data/interim/preprocessed/dict1/0068.png",
+      "out_txt": "/Users/rjc/generals/data/interim/ocr/dict1/0068.txt",
+      "out_tsv": [
+        "/Users/rjc/generals/data/interim/ocr/dict1/0068_L.tsv",
+        "/Users/rjc/generals/data/interim/ocr/dict1/0068_R.tsv"
+      ],
+      "out_hocr": [
+        "/Users/rjc/generals/data/interim/ocr/dict1/0068_L.hocr",
+        "/Users/rjc/generals/data/interim/ocr/dict1/0068_R.hocr"
+      ],
+      "n_chars": 6249,
+      "n_lines": 127,
+      "ms": 15252,
+      "split": true,
+      "header_crop_px": 457,
+      "split_x": 2251,
+      "mode": "tess"
+    }
+
+    {
+      "src": "data/interim/preprocessed/dict1/0069.png",
+      "out_txt": "/Users/rjc/generals/data/interim/ocr/dict1/0069.txt",
+      "out_tsv": [
+        "/Users/rjc/generals/data/interim/ocr/dict1/0069_L.tsv",
+        "/Users/rjc/generals/data/interim/ocr/dict1/0069_R.tsv"
+      ],
+      "out_hocr": [
+        "/Users/rjc/generals/data/interim/ocr/dict1/0069_L.hocr",
+        "/Users/rjc/generals/data/interim/ocr/dict1/0069_R.hocr"
+      ],
+      "n_chars": 6165,
+      "n_lines": 127,
+      "ms": 15459,
+      "split": true,
+      "header_crop_px": 469,
+      "split_x": 1977,
+      "mode": "tess"
+    }

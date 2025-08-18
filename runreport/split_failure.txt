@@ -1,0 +1,1 @@
+none: any time we toggle into split mode, we get about the right number of lines.

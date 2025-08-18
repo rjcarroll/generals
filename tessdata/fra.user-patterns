@@ -1,0 +1,4 @@
+^d[’'][A-Z][a-z]+$          # d’Aumont, d’Otrante
+^l[’'][a-z]+$               # l’armée, l’empereur
+^[A-ZÉÈÊÀÂÎÔÛÇ]{1,3}\.$     # single-letter/short abbrev with period
+^[A-Z][a-z]+-[A-Z][a-z]+$   # Saint-Cyr, Mont-Saint
