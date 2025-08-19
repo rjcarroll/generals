@@ -11,3 +11,5 @@ data/external/*
 !data/external/.gitkeep
 .DS_Store
 Icon?
+runs/
+samples/
